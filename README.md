@@ -6,6 +6,6 @@ The common thread among the methods and pappers listed here is that the same sam
 
 ## Multi-omics reviews
 
-- 2019 - Mirza - [Machine Learning and Integrative Analysis of Biomedical Big Data](https://doi.org/10.3390/genes10020087) (lots of exemples but missing an organized table)
+- 2019 - Mirza - [Machine Learning and Integrative Analysis of Biomedical Big Data](https://doi.org/10.3390/genes10020087) (lots of examples but missing an organized table)
 - 2020 - Krassowski - [State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing](https://doi.org/10.3389%2Ffgene.2020.610798) 
 
