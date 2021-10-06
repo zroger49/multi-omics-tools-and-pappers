@@ -9,3 +9,8 @@ The common thread among the methods and pappers listed here is that the same sam
 - 2019 - Mirza - [Machine Learning and Integrative Analysis of Biomedical Big Data](https://doi.org/10.3390/genes10020087) (lots of examples but missing an organized table)
 - 2020 - Krassowski - [State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing](https://doi.org/10.3389%2Ffgene.2020.610798) 
 
+## Multi-omics applications
+
+### Deep learning 
+
+- 2018 - Sun - [A multi modal deep neural network for human breast cancer prognosis prediction by integrating multi multi-dimensional data](https://doi.org/10.1109/TCBB.2018.2806438) [code](https://github.com/USTC-HIlab/MDNNMD)
