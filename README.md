@@ -14,4 +14,4 @@ The common thread among the methods and pappers listed here is that the same sam
 
 ### Deep learning 
 
-- 2018 - Sun - [A multi modal deep neural network for human breast cancer prognosis prediction by integrating multi multi-dimensional data](https://doi.org/10.1109/TCBB.2018.2806438) [code](https://github.com/USTC-HIlab/MDNNMD)
+- 2018 - Sun - [A multi modal deep neural network for human breast cancer prognosis prediction by integrating multi multi-dimensional data](https://doi.org/10.1109/TCBB.2018.2806438) [[code](https://github.com/USTC-HIlab/MDNNMD)]
