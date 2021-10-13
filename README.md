@@ -4,8 +4,9 @@ Personal repository to keep track of important papers and methods throughout my 
 Based in the community maintained [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) and [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
 
 
-## Single-cell reviews 
+## Single-cell reviews https://github.com/theislab/single-cell-tutorial
 
+- 2019 - Luecken - [Current best practices in single-cell RNA-seq analysis: a tutorial](https://doi.org/10.15252/msb.20188746) (Includes tutorial [code](https://github.com/theislab/single-cell-tutorial) with study case)
 - 2020 - Ma - **[Integrative Methods and Practical Challenges for Single-Cell Multi-omics](https://doi.org/10.1016/j.tibtech.2020.02.013)** *
 
 
