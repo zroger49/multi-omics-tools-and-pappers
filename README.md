@@ -1,7 +1,12 @@
-# Multi omics tools and pappers
-Personal repository to keep track of important pappers and methods in the area of multi-omics data integration (with a focus on applications to precision medicine and cancer genomics). Papper of particular importance are marked with a *
+# Multi omics tools and papers
+Personal repository to keep track of important papers and methods throughout my PhD. Papper of particular importance are marked with a *. Papers are divided into several categories (a paper might belong to several categories). 
 
-The common thread among the methods and pappers listed here is that the same samples are measured across different assays. Based in the community maintained [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) and [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
+Based in the community maintained [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) and [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
+
+
+## Single-cell reviews 
+
+- 2020 - Ma - **[Integrative Methods and Practical Challenges for Single-Cell Multi-omics](https://doi.org/10.1016/j.tibtech.2020.02.013)** *
 
 
 ## Multi-omics reviews
