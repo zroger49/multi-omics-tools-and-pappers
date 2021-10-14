@@ -1,5 +1,7 @@
 # PhD relevant papers 
-Personal repository to keep track of important papers and methods throughout my PhD. Papper of particular importance are marked with a *. Papers are divided into several categories (a paper might belong to several categories). 
+Personal repository to keep track of important papers and methods throughout my PhD. 
+Works of particular importance are marked with a *. 
+
 
 Based in the community maintained [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) and [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
 
