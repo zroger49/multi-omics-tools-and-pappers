@@ -6,6 +6,9 @@ Works of particular importance are marked with a *.
 Based in the community maintained [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) and [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
 
 
+## Machine learning review 
+
+- 2018 - Li [A review on machine learning principles for multi-view biological data integration](https://doi.org/10.1093/bib/bbw113)
 
 ## Single-cell reviews
 
