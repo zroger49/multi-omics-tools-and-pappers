@@ -8,13 +8,13 @@ Based in the community maintained [awesome-single-cell](https://github.com/seand
 
 ## Machine learning review 
 
-- 2018 - Li [A review on machine learning principles for multi-view biological data integration](https://doi.org/10.1093/bib/bbw113)
+- 2018 - Li - [A review on machine learning principles for multi-view biological data integration](https://doi.org/10.1093/bib/bbw113)
 
 ## Single-cell reviews
 
 - 2019 - Luecken - [Current best practices in single-cell RNA-seq analysis: a tutorial](https://doi.org/10.15252/msb.20188746) (Includes tutorial [code](https://github.com/theislab/single-cell-tutorial) with study case)
 - 2020 - Ma - **[Integrative Methods and Practical Challenges for Single-Cell Multi-omics](https://doi.org/10.1016/j.tibtech.2020.02.013)** *
-
+- 2021 - Squair - [Confronting false discoveries in single-cell differential expression](https://doi.org/10.1038/s41467-021-25960-2)
 ## Single cell methods 
 
 
